@@ -3,7 +3,7 @@
 A testing repository for Native Android Calculator application is written in Java using Appium.
 
 1. [Technology](#technology)
-2. [Prerequisite](#prerequisite)
+2. [Prerequisites](#prerequisites)
 3. [How to run this project](#How-to-run-this-project)
 
 ### Technology
@@ -12,9 +12,9 @@ A testing repository for Native Android Calculator application is written in Jav
 - Appium
 - JUnit
 
-### Prerequisite
+### Prerequisites
 Before executing tests, the following software needs to be set up:
-1. jdk 1.8 or above
+1. jdk 11 or any LTS version
 2. Android SDK and tools
 3. Appium server
 
